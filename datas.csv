@@ -1,0 +1,26 @@
+Word,Definition
+Algorithm,A set of rules or steps to solve a problem
+Binary,A base-2 number system using 0 and 1
+Boolean,A data type with two possible values: true or false
+Cache,A storage location for frequently accessed data
+Compiler,A program that translates source code into machine code
+Database,A structured collection of data
+Debug,To identify and remove errors from software
+Encryption,The process of converting data into a code to prevent unauthorized access
+Firewall,A network security system that monitors and controls incoming and outgoing network traffic
+Gigabyte,A unit of data equal to 1024 megabytes
+HTML,HyperText Markup Language used to create web pages
+Kernel,The core part of an operating system
+Loop,A sequence of instructions that repeats until a condition is met
+Malware,Software designed to harm or exploit any programmable device or network
+Network,Two or more computers connected to share resources
+Protocol,A set of rules for data communication
+Queue,A collection of entities that are maintained in a sequence and can be modified by adding or removing entities
+RAM,Random Access Memory
+Root,A superuser with full access to all files and commands in a Unix/Linux operating system
+Script,A file containing a series of commands to be executed by a computer
+Syntax,The set of rules defining how a programming language should be written
+Thread,A sequence of programmed instructions managed independently by a scheduler
+URL,Uniform Resource Locator The address of a web page
+Virus,Malicious software that replicates itself and spreads to other computers
+WAN,Wide Area Network A telecommunications network that extends over a large geographical area
